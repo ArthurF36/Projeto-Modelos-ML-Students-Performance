@@ -1,6 +1,7 @@
 # Projeto modelos ML: Students Performance
 
 📊 Student Performance Analysis
+
 Este projeto tem como objetivo analisar o desempenho acadêmico de estudantes utilizando técnicas de Machine Learning, explorando tanto modelos de classificação quanto de regressão.
 
 📌 Objetivo
